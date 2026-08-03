@@ -45,7 +45,7 @@ AI + Cybersecurity framework for secure autonomous vehicles.
 ## Connect
 
 LinkedIn:
-https://www.linkedin.com/pooja-sri-a
+(https://www.linkedin.com/in/pooja-sri-a-268a75300/)
 
 Email:
 poojasri30092001@gmail.com
