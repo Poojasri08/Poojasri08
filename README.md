@@ -1,8 +1,8 @@
 # Hi 👋, I'm Pooja Sri
 
-### 🎓 BE CSE (AI & ML) Student
-### 🔐 Learning AI Security & Cybersecurity
-### 💻 Python Developer | Linux Learner
+### BE CSE (AI & ML) Student
+### Learning AI Security & Cybersecurity
+### Python Developer | Linux Learner
 
 ---
 
