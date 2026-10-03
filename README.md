@@ -8,21 +8,21 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 BE Computer Science and Engineering (AI & ML)
-- 🔐 Interested in AI Security and Cybersecurity
-- 🐍 Learning Python
-- 🐧 Exploring Linux
-- 🚀 Building AI-powered and Security-focused Projects
-- 🌱 Currently improving my Software Engineering skills
+- BE Computer Science and Engineering (AI & ML)
+- Interested in AI Security and Cybersecurity
+- Learning Python
+- Exploring Linux
+- Building AI-powered and Security-focused Projects
+- Currently improving my Software Engineering skills
 
 ---
 
 ## 🚀 Currently Working On
 
-- 🔹 Wireless EV Charging System
-- 🔹 Smart Grid Electricity Supply System
-- 🔹 AI Security
-- 🔹 Linux & Python Projects
+- Wireless EV Charging System
+- Smart Grid Electricity Supply System
+- AI Security
+- Linux & Python Projects
 
 ---
 
@@ -38,13 +38,13 @@
 
 ## 📌 Featured Projects
 
-### 🚗 Wireless EV Charging System
+### Wireless EV Charging System
 Wireless charging using electromagnetic induction for electric vehicles.
 
-### ⚡ Smart Grid Electricity Supply System
+### Smart Grid Electricity Supply System
 A software engineering project for efficient power distribution.
 
-### 🤖 AI Security
+### AI Security
 Learning and implementing secure AI systems.
 
 ---
