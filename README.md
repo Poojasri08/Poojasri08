@@ -1,75 +1,52 @@
-# Hi 👋, I'm Pooja Sri
+# Pooja Sri A
 
-### BE CSE (AI & ML) Student
-### Learning AI Security & Cybersecurity
-### Python Developer | Linux Learner
+**AI & ML Student | Cybersecurity & Application Security**
 
----
+I’m a B.E. Computer Science and Engineering (AI & ML) student building practical skills in cybersecurity, with a focus on Application Security, Web & API Security, and Secure Coding.
 
-## 👩‍💻 About Me
+I learn through hands-on projects, security testing, and building practical applications.
 
-- BE Computer Science and Engineering (AI & ML)
-- Interested in AI Security and Cybersecurity
-- Learning Python
-- Exploring Linux
-- Building AI-powered and Security-focused Projects
-- Currently improving my Software Engineering skills
+## Featured Project
 
----
+### Logic Leak 2.0
 
-## 🚀 Currently Working On
+A full-stack cybersecurity learning platform designed to teach vulnerability discovery, secure coding, and remediation through interactive security challenges.
 
-- Wireless EV Charging System
-- Smart Grid Electricity Supply System
+**Technology:** React, Node.js, Express, SQLite, JWT
+
+**Security focus:**
+- Web and API Security
+- Authentication and Authorization
+- Input Validation
+- Business Logic Security
+- Secure Coding
+- Vulnerability Remediation
+
+**Live Application:** https://logic-leak-frontend.vercel.app/
+
+## Areas of Focus
+
+- Application Security
+- Web Application Security
+- API Security
+- Vulnerability Assessment and Penetration Testing
+- Secure Coding
 - AI Security
-- Linux & Python Projects
 
----
+## Technical Skills
 
-## 🛠️ Tech Stack
+**Languages:** Python, JavaScript  
+**Web:** React, Node.js, Express  
+**Database:** SQLite  
+**Security:** Web Security, API Security, Authentication, Secure Coding  
+**Tools:** Git, GitHub, Linux, Burp Suite, TryHackMe
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+## Current Direction
 
----
+Building practical cybersecurity skills through hands-on projects, security testing, and real-world learning.
 
-## 📌 Featured Projects
+Interested in the intersection of AI and cybersecurity, particularly AI security and secure systems.
 
-### Wireless EV Charging System
-Wireless charging using electromagnetic induction for electric vehicles.
+## Connect
 
-### Smart Grid Electricity Supply System
-A software engineering project for efficient power distribution.
-
-### AI Security
-Learning and implementing secure AI systems.
-
----
-
-## 📈 Contribution Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Poojasri08&theme=tokyo-night)
-
----
-
-## 🎯 Goals
-
-- Build secure AI applications
-- Learn Ethical Hacking
-- Contribute to Open Source
-- Become an AI Security Engineer
-
----
-
-## 📫 Connect With Me
-
-💼 LinkedIn: https://www.linkedin.com/in/pooja-sri-a-268a75300/
-
-📧 Email: poojasri30092001@gmail.com
-
----
-
-⭐ Thanks for visiting my profile!
+LinkedIn: https://www.linkedin.com/in/pooja-sri-a-268a75300
